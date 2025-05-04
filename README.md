@@ -47,11 +47,10 @@
 ---
 
 ## Repo Structure
-main/ <- All core work:
-• exploratory EDA notebooks
-• baseline XGBoost model
-• TinyLlama experiments
-• other research & prototypes
-scripts/ <- Quick one‑off or scratch scripts created during the project
 
-
+- **main/** – all core work include:
+  -  exploratory EDA  
+  -  baseline XGBoost model  
+  -  TinyLlama hybrid  
+  -  other research & explorations  
+- **scripts/** – quick one‑off or scratch scripts created during the project
