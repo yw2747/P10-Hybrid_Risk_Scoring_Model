@@ -19,6 +19,8 @@
 ---   
 
 ## 3 · Data at a Glance
+Link to dataset: https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1?select=Loan_status_2007-2020Q3.gzip
+
 | Item                              | Value |
 |-----------------------------------|-------|
 | Period                            | 2007 – Q3 2020 |
